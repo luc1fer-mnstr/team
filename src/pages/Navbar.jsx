@@ -8,7 +8,7 @@ const Navbar = () => {
   const [isOpen, setIsOpen] = useState(false);
 
   return (
-    <nav className="bg-[#0D3B66] text-white">
+    <nav className="bg-[#3b3460] text-white">
       <div className="max-w-7xl mx-auto flex justify-between items-center">
           <a href="/" className='text-2xl font-bold'>
               <img width={200} height={100} src={logo} alt="logo" />
